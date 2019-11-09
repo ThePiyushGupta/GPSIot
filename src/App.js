@@ -10,8 +10,6 @@ let lat = 26.444, lon = 91.691582;
 let top = "semsLocation";
 console.log('start');
 
-const AnyReactComponent = ({ text }) => <div>{text}</div>;
-
 class App extends React.Component {
 	constructor(props) {
 		super(props);
