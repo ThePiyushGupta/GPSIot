@@ -31,10 +31,6 @@ export default class MyGreatPlace extends React.Component {
 
     // static defaultProps = {};
 
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div style={greatPlaceStyle}>

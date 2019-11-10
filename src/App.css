@@ -105,3 +105,8 @@ label[for="sidebar-btn"] {
     z-index: 1;
     /* padding: 4em; */
 }
+
+#map_canvas {
+    height: 600px;
+    width: 800px
+}
