@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GPSIot/precache-manifest.995fc0994e675428d26eacfdac847f9e.js"
+  "/GPSIot/precache-manifest.f97e59c95ab58975ca46a85181626c6a.js"
 );
 
 self.addEventListener('message', (event) => {

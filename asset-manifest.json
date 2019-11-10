@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/GPSIot/static/css/main.20b3c52e.chunk.css",
-    "main.js": "/GPSIot/static/js/main.a3216c12.chunk.js",
-    "main.js.map": "/GPSIot/static/js/main.a3216c12.chunk.js.map",
+    "main.css": "/GPSIot/static/css/main.b3166a2e.chunk.css",
+    "main.js": "/GPSIot/static/js/main.b54108d3.chunk.js",
+    "main.js.map": "/GPSIot/static/js/main.b54108d3.chunk.js.map",
     "runtime-main.js": "/GPSIot/static/js/runtime-main.6d2d2516.js",
     "runtime-main.js.map": "/GPSIot/static/js/runtime-main.6d2d2516.js.map",
-    "static/js/2.8e3e0192.chunk.js": "/GPSIot/static/js/2.8e3e0192.chunk.js",
-    "static/js/2.8e3e0192.chunk.js.map": "/GPSIot/static/js/2.8e3e0192.chunk.js.map",
+    "static/js/2.5242a8e6.chunk.js": "/GPSIot/static/js/2.5242a8e6.chunk.js",
+    "static/js/2.5242a8e6.chunk.js.map": "/GPSIot/static/js/2.5242a8e6.chunk.js.map",
     "index.html": "/GPSIot/index.html",
-    "precache-manifest.995fc0994e675428d26eacfdac847f9e.js": "/GPSIot/precache-manifest.995fc0994e675428d26eacfdac847f9e.js",
+    "precache-manifest.f97e59c95ab58975ca46a85181626c6a.js": "/GPSIot/precache-manifest.f97e59c95ab58975ca46a85181626c6a.js",
     "service-worker.js": "/GPSIot/service-worker.js",
-    "static/css/main.20b3c52e.chunk.css.map": "/GPSIot/static/css/main.20b3c52e.chunk.css.map"
+    "static/css/main.b3166a2e.chunk.css.map": "/GPSIot/static/css/main.b3166a2e.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.6d2d2516.js",
-    "static/js/2.8e3e0192.chunk.js",
-    "static/css/main.20b3c52e.chunk.css",
-    "static/js/main.a3216c12.chunk.js"
+    "static/js/2.5242a8e6.chunk.js",
+    "static/css/main.b3166a2e.chunk.css",
+    "static/js/main.b54108d3.chunk.js"
   ]
 }
